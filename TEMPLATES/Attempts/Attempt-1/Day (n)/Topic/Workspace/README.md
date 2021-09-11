@@ -3,7 +3,8 @@
 ## [Table of Contents]
 
 1. Information
-2. Content
+2. Design
+3. Content
 
 ## [Information]
 
@@ -27,10 +28,10 @@
      - yyyy-mm-dd (HH:MM)H, {Author}
        - {Changelogs-here}
 
+## [Design]
+
+1. Program Design Here
+
 ## [Content]
 
-1. Topics
-
-    > Day | Topic
-
-        1 | To be confirmed
+1. Program Information Here
