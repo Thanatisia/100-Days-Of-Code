@@ -14,4 +14,4 @@
 
     > Day | Topic
 
-       + 1 | To be confirmed
+        1 | To be confirmed
