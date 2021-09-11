@@ -1,4 +1,3 @@
-
 # Days of Code
 
 - Attempt 1
