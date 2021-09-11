@@ -1,5 +1,8 @@
 
-# Table of Contents
+# Days of Code
+
+- Attempt (n)
+- Start Date: yyyy-mm-dd
 
 ## [Table of Contents]
 
@@ -10,5 +13,4 @@
 1. Topics
 
     > Day | Topic
-      + 1 | HelloWorld
-      + 2 | Test
+      - 1 | To be filled
