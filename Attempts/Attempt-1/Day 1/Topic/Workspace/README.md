@@ -53,6 +53,8 @@
    - Class Diagram
    - Database Diagram
 
+4. Security Design
+
 ## [Content]
 
 1. Program Information Here
