@@ -1,7 +1,7 @@
 # Days of Code
 
 - Attempt 1
-- Start Date: 2021-09-11
+- Start Date: 2021-09-25
 
 ## [Table of Contents]
 
@@ -13,4 +13,4 @@
 
     > Day | Topic
 
-        1 | To be confirmed
+        1 | PyQt5
